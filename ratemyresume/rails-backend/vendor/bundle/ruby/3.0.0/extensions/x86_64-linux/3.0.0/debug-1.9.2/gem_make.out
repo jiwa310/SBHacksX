@@ -1,0 +1,16 @@
+current directory: /home/jimwang/RateMyResume/ratemyresume/rails-backend/vendor/bundle/ruby/3.0.0/gems/debug-1.9.2/ext/debug
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20241018-21390-w7ang0.rb extconf.rb
+creating Makefile
+
+current directory: /home/jimwang/RateMyResume/ratemyresume/rails-backend/vendor/bundle/ruby/3.0.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/jimwang/RateMyResume/ratemyresume/rails-backend/vendor/bundle/ruby/3.0.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/jimwang/RateMyResume/ratemyresume/rails-backend/vendor/bundle/ruby/3.0.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20241018-21390-9fjmab/debug
