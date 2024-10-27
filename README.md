@@ -1,7 +1,4 @@
-# SBHacksX Hackathon
-Jim Wang, Jason Wang, Vincent Cheong, Edwin Yee
-
-# Images of Web App
+# Images
 ![image](https://github.com/jiwa310/RateMyResume/assets/91923759/e09ecd9d-ded4-4526-971c-52e6d49bc02f)
 ![image](https://github.com/jiwa310/RateMyResume/assets/91923759/e311b14a-56c9-42bb-8ddf-c7d332304300)
 ![image](https://github.com/jiwa310/RateMyResume/assets/91923759/9704257e-ec3a-4306-8d35-d1a6b357642d)
@@ -34,7 +31,8 @@ Displaying PDFs on the Next.js app as a clickable grid also proved to be a chall
 # Accomplishments that we're proud of
 1) Integrated a disqus comment section for each resume
 2) Used FastApi to process the PDFs with Python and send them back to the Next.js app
-3) Learning about various AWS services & integrating Comprehend into our project
+3) Used Ruby on Rails to implement feedback system
+4) Learning about various AWS services & integrating Comprehend into our project
 What we learned
 How to use FastAPI, and how to efficiently send post requests from a Next.js app to FastAPI to use Python with Next.js. We also learned how to utilize the Amazon Comprehend API and call it when needed for our project.
 
